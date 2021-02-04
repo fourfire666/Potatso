@@ -36,9 +36,10 @@ target "Potatso" do
     pod 'ICSPullToRefresh', '~> 0.6'
     pod 'ISO8601DateFormatter', '~> 0.8'
     pod 'Alamofire'
-    pod 'ObjectMapper'
+    pod 'AlamofireObjectMapper', '~> 5.0'
     pod 'CocoaLumberjack/Swift', '~> 3.0.0'
     pod 'PSOperations'
+    pod 'Crashlytics', '~> 3.10.7'
     tunnel
     library
     socket

@@ -20,7 +20,7 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.Durian.nb.DurianVPN</string>
+		<string>group.durian.potatso</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
